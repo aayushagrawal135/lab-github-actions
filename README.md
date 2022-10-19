@@ -72,7 +72,7 @@ Run the tests using `nosetests` and `coverage`
 nosetests
 ```
 
-Nose is configured to automatically include the flags `--with-spec --spec-color --with-coverage` so that red-green-refactor is meaningful. If you are in a command shell that supports colors, passing tests will be green while failing tests will be red.
+ Nose is configured to automatically include the flags `--with-spec --spec-color --with-coverage` so that red-green-refactor is meaningful. If you are in a command shell that supports colors, passing tests will be green while failing tests will be red.
 
 ## What's featured in the project?
 
